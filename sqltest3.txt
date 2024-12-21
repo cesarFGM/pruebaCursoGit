@@ -1,5 +1,3 @@
 este es un nuevo archivo nuevamente
 
 otra linea que va hacer error
-
-otro errror
